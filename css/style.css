@@ -1,0 +1,41 @@
+html,body{
+  padding:0;
+  margin:0;
+  width:100%;
+  font-size: 18px;
+}
+
+header{
+  width:100%;
+  display: flex;
+  padding:10px;
+  justify-content: space-between;
+  align-items: center;
+}
+header h1{
+
+}
+#global-navi{
+
+}
+#global-navi ul{
+  display:flex;
+  margin-bottom: 0;
+}
+#global-navi ul li{
+  margin-right:20px;
+}
+#global-navi ul li:hover{
+  background-color: #B0E0E6	;
+}
+#main{
+  text-align: center;
+  padding:200px 5% 30px 5%;
+}
+#main h3{
+  margin-bottom:30px;
+}
+#main p{
+  width:80%;
+  margin:0 auto 25px auto;
+}
